@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1EEB7123-78BC-4434-93F5-28CBC773D189</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UITableViewEditAndOrder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>940AFD1D-A212-4E97-A511-BF4B1CBE94C0</key>
+		<string>ssh://github.com/singer1026/UITableViewEditAndOrder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UITableViewEditAndOrder.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>940AFD1D-A212-4E97-A511-BF4B1CBE94C0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/singer1026/UITableViewEditAndOrder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>940AFD1D-A212-4E97-A511-BF4B1CBE94C0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>940AFD1D-A212-4E97-A511-BF4B1CBE94C0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UITableViewEditAndOrder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
